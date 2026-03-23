@@ -18,7 +18,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: none;">
   <a href="https://github.com/okiedokiejia" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=okiedokiejia&hide_border=false&card_width=300&include_all_commits=true&count_private=true&bg_color=6C5B86&text_color=F0E6EF&title_color=F0A6CA&show_icons=true&icon_color=EFC3E6&line_height=20" height="280" />
+    <img src="https://github-readme-stats.vercel.app/api?username=okiedokiejia&hide_border=false&card_width=300&include_all_commits=true&count_private=true&bg_color=6C5B86&text_color=F0E6EF&title_color=F0A6CA&show_icons=true&icon_color=EFC3E6&line_height=29" height="300" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
