@@ -3,13 +3,14 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=fh&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F0A6CA"  />
 </div>
 
-# 💫 About Me:
+<!-- # 💫 About Me:
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 <div align="center"> 
   <img height="300" width="300" src="me.jpg" alt="A beautiful sunset" />
 </div>
+-->
 
 
 # 💻 Tech Stack:
@@ -18,10 +19,10 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: none;">
   <a href="https://github.com/okiedokiejia" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=okiedokiejia&hide_border=false&card_width=300&include_all_commits=true&count_private=true&bg_color=6C5B86&text_color=F0E6EF&title_color=F0A6CA&show_icons=true&icon_color=EFC3E6&line_height=29" height="300" />
+    <img style="margin-left: 20px; "src="https://github-readme-stats.vercel.app/api?username=okiedokiejia&hide_border=false&card_width=300&include_all_commits=true&count_private=true&bg_color=6C5B86&text_color=F0E6EF&title_color=F0A6CA&show_icons=true&icon_color=EFC3E6&line_height=29" height="300" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+  <a href="https://github.com/okiedokiejia" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okiedokiejia&layout=donut&bg_color=6C5B86&text_color=F0E6EF&title_color=F0A6CA&ring_color=EFC3E6&card_width=300" height="300" />
   </a>
 </div>
