@@ -3,7 +3,13 @@
 </div>
 
 # 💫 About Me:
+
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  /> https://pin.it/ZuU79xQez
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif(https://pin.it/ZuU79xQez)"  />
+</div>
 
 
 # 💻 Tech Stack:
@@ -17,7 +23,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=material-palenight)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=okiedokiejia&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -30,14 +36,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=okiedokiejia.okiedokiejia&"  />
