@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=okiedokiejia&hide_border=false&include_all_commits=true&count_private=true&bg_color=D7D0DF&text_color=9C89B8)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=okiedokiejia&theme=material-palenight&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=D7D0DF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=material-palenight)
