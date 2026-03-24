@@ -33,6 +33,8 @@ A fun fact about me is that I can name 150 countries on the top of my head (work
   </a>
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
@@ -63,4 +65,5 @@ A fun fact about me is that I can name 150 countries on the top of my head (work
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=fh&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=E3CAE3"  />
 </div>
+
 
