@@ -12,7 +12,7 @@ I've been coding for about 7 years now and have grown to enjoy all areas of soft
 A fun fact about me is that I can name 150 countries on the top of my head (working on the rest!) and I am a proud plant mom to 4 plants! 🌱(who said compsci students dont touch grass? xd) --> 
 
 <div align="center"> 
-  <img height="200" width="200" src="me.jpg" alt="a bunny with a bow looking at a computer screen " />
+  <img height="250" width="300" src="me.jpg" alt="a bunny with a bow looking at a computer screen " />
 </div>
 
 
