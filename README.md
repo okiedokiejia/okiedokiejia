@@ -34,8 +34,9 @@ A fun fact about me is that I can name 150 countries on the top of my head (work
 </div>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=material-palenight)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+-->
 
 <!-- ### 🔝 Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=okiedokiejia&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
