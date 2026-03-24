@@ -3,13 +3,13 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=fh&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=E3CAE3"  />
 </div>
 
-# Hello there, I'm Janika! 
+# Hello there, I'm Janika! 🌸
 
-I've been coding for about 7 years now and have grown to enjoy all areas of software development! Lately, my main interests have been in full-stack and cyber security. At the moment, my main focus is expanding my portfolio and working on projects that allow me to bring out my creative side! 
+I've been coding for about 7 years now and have grown to enjoy all areas of software development! Lately, my main interests have been in full-stack and cyber security. At the moment, my main focus is expanding my portfolio and working on projects that allow me to bring out my creative side! ✨
 
-I spend WAY too much time listening to music, so i figured out why not give it a try and develop my own music streaming platform inspired by Spotify. It's still in its early stages, but I'm excited to see where it goes.
+I spend **WAY** too much time listening to music, so i figured out why not give it a try and develop my own music streaming platform inspired by *Spotify*. It's still in its early stages, but I'm excited to see where it goes.
 
-A fun fact about me is that I can name 150 countries on the top of my head (working on the rest!) and I am a proud plant mom to 4 plants! (who said compsci students dont touch grass?)  
+A fun fact about me is that I can name 150 countries on the top of my head (working on the rest!) and I am a proud plant mom to 4 plants! 🌱(who said compsci students dont touch grass? xd)  
 
 <div align="center"> 
   <img height="300" width="300" src="me.jpg" alt="a bunny with a bow looking at a computer screen " />
