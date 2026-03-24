@@ -5,9 +5,7 @@
 
 # Hello there, I'm Janika! 🌸
 
-I've been coding for about 7 years now and have grown to enjoy all areas of software development! However, my main interests are in full-stack development and cybersecurity.
-
-Currently, I'm focused in expanding my portfolio and working on projects that allow me to bring out my creative side! ✨
+I've been coding for about 7 years now and have grown to enjoy all areas of software development! My main interests are in full-stack development and cybersecurity. Currently, I'm focused in expanding my portfolio and working on projects that allow me to bring out my creative side! ✨
 
 <!--I spend **WAY** too much time listening to music, so i figured out why not give it a try and develop my own music streaming platform inspired by *Spotify*. It's still in its early stages, but I'm excited to see where it goes.
 
