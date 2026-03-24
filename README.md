@@ -23,6 +23,12 @@ A fun fact about me is that I can name 150 countries on the top of my head (work
 
 # 📊 GitHub Stats:
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okiedokiejia/okiedokiejia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okiedokiejia/okiedokiejia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/okiedokiejia/okiedokiejia/output/pacman-contribution-graph.svg">
+</picture>
+
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: none;">
   <a href="https://github.com/okiedokiejia" style="text-decoration: none;">
     <img style="margin-left: 20px; "src="https://github-readme-stats.vercel.app/api?username=okiedokiejia&hide_border=false&card_width=300&include_all_commits=true&count_private=true&bg_color=6C5B86&text_color=F0E6EF&title_color=F0A6CA&show_icons=true&icon_color=B8BEDD&line_height=29" height="300" />
@@ -45,11 +51,7 @@ A fun fact about me is that I can name 150 countries on the top of my head (work
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okiedokiejia/okiedokiejia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okiedokiejia/okiedokiejia/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/okiedokiejia/okiedokiejia/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
